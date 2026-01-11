@@ -1,0 +1,20 @@
+# my_input.yaml
+task: custom_text
+shots: 4          # number of few-shot examples
+iterations: 10    # number of IV updates
+strength: 0.5
+ext_strength: 0.3
+
+# few-shot examples
+examples:
+  - input: "2+3"
+    output: "5"
+  - input: "7+1"
+    output: "8"
+  - input: "10-2"
+    output: "8"
+  - input: "3*2"
+    output: "6"
+
+# your query to predict
+query: "4+6"

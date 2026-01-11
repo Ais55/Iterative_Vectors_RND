@@ -1,0 +1,12 @@
+linux
+source ivectors-env/bin/activate
+python3 -m venv iv_env1
+
+
+https://github.com/ArkciaTheDragon/iterative-vectors 
+
+run this command:
+python iv.py -c config/yours.yaml -g 0 -m gpt-j-6b -t ag_news -s 4 --strength 0.5 --ext-strength 0.3 --run-test
+
+
+python iv.py -c config/yours.yaml -g 0 -m gpt-j-6b -t ag_news -s 4 --strength 0 --ext-strength 0.3 --run-test

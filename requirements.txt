@@ -1,0 +1,29 @@
+# Core deep learning
+torch
+torchvision
+torchaudio
+
+# Hugging Face ecosystem
+transformers
+datasets
+accelerate
+evaluate
+sentencepiece
+
+# Utility + logging
+rich
+tqdm
+pyyaml
+
+# Metrics + ML tools
+scikit-learn
+numpy
+scipy
+
+# Baukit (activation tracing utilities)
+git+https://github.com/davidbau/baukit
+
+# Optional: for dataframes and visualization
+pandas
+matplotlib
+seaborn

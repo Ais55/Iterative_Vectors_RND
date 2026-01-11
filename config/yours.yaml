@@ -1,0 +1,3 @@
+models:
+  llama-2-7b: meta-llama/Llama-2-7b
+  gpt-j-6b: EleutherAI/gpt-j-6b
