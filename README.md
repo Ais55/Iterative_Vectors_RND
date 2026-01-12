@@ -102,7 +102,7 @@ Forty-Second International Conference on Machine Learning (ICML 2025)
 &nbsp;&nbsp;url={https://openreview.net/forum?id=1v3XEcRMyP}  
 }
 ## Presentation of Research and Development Project
- RND_SEM5.pdf
+ [RND_SEM5.pdf](https://github.com/Ais55/Iterative_Vectors_RND/blob/main/RND_SEM5.pdf)
 ## Notes
 
 This repository is intended for research and educational purposes. Results may vary depending on the model, dataset, and hyperparameter choices.
